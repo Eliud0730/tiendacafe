@@ -1,0 +1,16 @@
+a:4:{s:4:"hash";s:0:"";s:5:"mtime";i:1583254697;s:6:"expire";i:1583258297;s:4:"tags";s:69:"2f8_BLOCK_HTML,2f8_CAT_C,2f8_CAT_C_7,2f8_CAT_C_3,2f8_CAT_C_4,2f8_MAGE";}
+
+<nav class="navigation" role="navigation">
+    <ul data-mage-init='{"menu":{"responsive":true, "expanded":true, "position":{"my":"left top","at":"left bottom"}}}'>
+                    <li class="level0 level-top  active ">
+                <a class="level-top" href="http://localhost/tienda/">
+                    Home
+                </a>
+            </li>
+                <li  class="level0 nav-1 category-item first level-top"><a href="http://localhost/tienda/nosotros.html"  class="level-top" ><span>Nosotros</span></a></li><li  class="level0 nav-2 category-item level-top"><a href="http://localhost/tienda/cafe.html"  class="level-top" ><span>Café (Claro y medio)</span></a></li><li  class="level0 nav-3 category-item last level-top"><a href="http://localhost/tienda/mezcal2.html"  class="level-top" ><span>Café obscuro (especialidad)</span></a></li>    </ul>
+</nav>
+<style>
+.navigation .level0 .submenu li.parent > a::after {
+    display:none;
+}
+</style>
